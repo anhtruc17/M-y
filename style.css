@@ -1,0 +1,49 @@
+body {
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 20px;
+}
+img {
+  padding-top: 6rem;
+}
+h1 {
+  line-height: 2rem;
+  color: #66BFBF;
+  font-size: 6rem;
+  font-weight: bold;
+}
+
+h2 {
+  margin: 100px auto;
+  color: #66BFBF;
+  font-size: 2rem;
+}
+.gioithieu{
+  font-size: 1rem;
+  color: black;
+}
+h3 {
+  color: #66BFBF;
+  margin: 5rem auto 0.5rem;
+}
+
+hr {
+  color: #FFB319;
+  margin: 100px auto;
+  width: 5%;
+  border: none;
+  border-top: dotted;
+  border-width: 0.5rem;
+}
+
+.top-container {
+  background-color: #E8F6EF;
+  padding-top: 200px;
+  position: relative;
+  border: none;
+}
+
+.middle-container {
+  background-color: white;
+  padding: 100px;
+}
